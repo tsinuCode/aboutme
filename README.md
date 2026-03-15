@@ -3,7 +3,7 @@
 <h3 align="center">Backend & Systems Engineer | AI Explorer | Builder</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tsinuekal%20%7C%20Backend%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tsinuekal%20%20%20Backend%20Engineer%20|%20AI%20Systems%20|%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tsinuekal%20%20%20Backend%20Engineer%20|%20AI%20Systems%20|%20Builder&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
 Building intelligent systems and scalable backend platforms.
