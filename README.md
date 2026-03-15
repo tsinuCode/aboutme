@@ -1,6 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Tsinuekal</h1>
 <h3 align="center">Backend & Systems Engineer | AI Explorer | Builder</h3>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tsinuekal%20%7C%20Backend%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <p align="center">
 Building intelligent systems and scalable backend platforms.
 </p>
@@ -52,63 +55,106 @@ My main focus areas:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### Tools
+### Dev Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 AI Engineer Project Showcase
 
-### 🏋️ Tsinu Gym Manager
-Full gym management platform with role-based access.
+## 🏋️ Tsinu Gym Manager
 
-Features:
+A **role-based gym management platform**.
+
+**Features**
+
 - Member management
 - Trainer dashboard
-- Payment tracking
-- Attendance monitoring
+- Attendance tracking
+- Payment management
 
-Stack: **React • Node.js • MySQL**
+**Stack**
+
+React • Node.js • MySQL
 
 ---
 
-### ⛪ Dire Dawa Diocese Digital Platform
-Dynamic multilingual church website with an admin panel.
+## ⛪ Dire Dawa Diocese Digital Platform
 
-Features:
-- Content management
+A **multilingual church website and digital platform**.
+
+**Features**
+
+- Admin dashboard
 - Media & news publishing
+- Content management
+- Multi-language support
+
+**Stack**
+
+Laravel • Tailwind • Supabase
+
+---
+
+## 🛡️ GBV Reporting System
+
+Anonymous **Gender Based Violence reporting platform**.
+
+**Features**
+
+- Telegram bot reporting
+- Secure report storage
 - Admin dashboard
 
-Stack: **Laravel • Tailwind • Supabase**
+**Stack**
+
+Python • Flask • Airtable
 
 ---
 
-### 🛡️ GBV Reporting System
-Anonymous gender-based violence reporting system.
+# 🧭 System Architecture Thinking
 
-Features:
-- Telegram bot reporting
-- Secure case storage
-- Admin review dashboard
+Example of how I approach system design:
+Client (Web / Mobile)
+│
+▼
+API Gateway
+│
+▼
+Backend Services
+├ Authentication Service
+├ Application Logic
+└ Notification Service
+│
+▼
+Database Layer
+├ MySQL
+├ Redis Cache
+└ Object Storage
 
-Stack: **Python • Flask • Airtable**
+
+Key principles I focus on:
+
+- Scalability
+- Clean architecture
+- Performance optimization
+- Secure API design
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Developer Activity Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Itsyabitaa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=tsinuCode&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsyabitaa&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsinuCode&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyabitaa&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsinuCode&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -116,7 +162,7 @@ Stack: **Python • Flask • Airtable**
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Itsyabitaa&theme=onedark&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=tsinuCode&theme=onedark&row=2&column=4"/>
 </p>
 
 ---
@@ -124,37 +170,37 @@ Stack: **Python • Flask • Airtable**
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 📈 Profile Visitors
 
-- Artificial Intelligence
-- System Design
-- Distributed Systems
-- Clean Architecture
-- Backend Performance Optimization
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tsinuCode&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
-📧 Email: **tsinulearning@gmail.com**
+<p align="center">
 
-<p align="left">
+<a href="https://github.com/tsinuCode">
+<img src="https://img.shields.io/badge/GitHub-tsinuCode-black?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/engkukusha">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tsinuekal-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://x.com/kukusha0514">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/Twitter-Kukusha-black?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
 
 ---
 
-⭐ *"First solve the problem, then write the code."*
+⭐ **"First solve the problem, then write the code."**
