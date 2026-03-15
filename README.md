@@ -119,7 +119,7 @@ Python • Flask • Airtable
 
 # 🧭 System Architecture Thinking
 
-**"Example of how I approach system design:
+Example of how I approach system design:
 Client (Web / Mobile)
 │
 ▼
@@ -135,7 +135,7 @@ Backend Services
 Database Layer
 ├ MySQL
 ├ Redis Cache
-└ Object Storage "**
+└ Object Storage 
 
 
 Key principles I focus on:
