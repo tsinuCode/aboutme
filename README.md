@@ -119,7 +119,7 @@ Python • Flask • Airtable
 
 # 🧭 System Architecture Thinking
 
-Example of how I approach system design:
+**"Example of how I approach system design:
 Client (Web / Mobile)
 │
 ▼
@@ -135,7 +135,7 @@ Backend Services
 Database Layer
 ├ MySQL
 ├ Redis Cache
-└ Object Storage
+└ Object Storage "**
 
 
 Key principles I focus on:
@@ -164,14 +164,10 @@ Key principles I focus on:
 ---
 
 
-# 📊 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tsinuCode&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tsinuCode&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tsinuCode&theme=algolia&no-frame=true"/>
 </p>
 
 ---
