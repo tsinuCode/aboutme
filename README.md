@@ -38,6 +38,14 @@ My main focus areas:
 
 ---
 
+# 🎨 Creative Skills
+
+Beyond engineering, I also work as a **Logo & Branding Designer**.
+
+I design clean and meaningful brand identities for businesses and projects.
+
+---
+
 # 🛠️ Tech Stack
 
 ### Backend
@@ -62,6 +70,12 @@ My main focus areas:
 ### Dev Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Design Tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -208,4 +222,13 @@ Key principles I focus on:
 
 ---
 
-⭐ **"First solve the problem, then write the code."**
+<p align="center">
+<a href="https://github.com/tsinuCode?tab=followers">
+<img src="https://img.shields.io/github/followers/tsinuCode?label=Follow&style=social" />
+</a>
+</p>
+
+---
+
+⭐ **"Ideas become impact when engineering meets purpose."**
+
