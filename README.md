@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Tsinuekal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Engineer%20|%20AI%20Explorer%20|%20System%20Builder|%20Brand%20Designer&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Tsinuekal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Engineer%20|%20AI%20Explorer%20|%20System%20Builder%20|%20Brand%20Designer&descAlignY=65&descSize=18"/>
 
 <h1 align="center">Hi 👋, I'm Tsinuekal</h1>
 
