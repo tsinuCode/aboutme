@@ -191,12 +191,12 @@ Key principles I focus on:
 <img src="https://img.shields.io/badge/GitHub-tsinuCode-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/engkukusha">
+<a href="https://www.linkedin.com/in/tsinu-kal-03a112364/">
 <img src="https://img.shields.io/badge/LinkedIn-Tsinuekal-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://x.com/kukusha0514">
-<img src="https://img.shields.io/badge/Twitter-Kukusha-black?style=for-the-badge&logo=x"/>
+<a href="https://x.com/tsinu-kal">
+<img src="https://img.shields.io/badge/Twitter-Tsinuekal-black?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
