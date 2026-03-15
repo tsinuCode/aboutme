@@ -1,13 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Tsinuekal</h1>
-<h3 align="center">Backend & Systems Engineer | AI Explorer | Builder</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Tsinuekal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20|%20AI%20Explorer%20|%20System%20Builder&descAlignY=65&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tsinuekal%20%7C%20Backend%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tsinuekal%20%20%20Backend%20Engineer%20|%20AI%20Systems%20|%20Builder&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Tsinuekal</h1>
+
+<p align="center">
+Backend & Systems Engineer • AI Explorer • Builder
+</p>
 
 <p align="center">
 Building intelligent systems and scalable backend platforms.
 </p>
+
 
 ---
 
@@ -160,10 +163,11 @@ Key principles I focus on:
 
 ---
 
-# 🏆 GitHub Achievements
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tsinuCode&theme=onedark&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tsinuCode&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6"/>
 </p>
 
 ---
